@@ -7,7 +7,7 @@
 	>
 <channel>
 	<title>
-	Komentarze do: Hello world!	</title>
+	Comments on: Hello world!	</title>
 	<atom:link href="./index.html" rel="self" type="application/rss+xml" />
 	<link>./../index.html</link>
 	<description>Take back your time</description>
@@ -16,10 +16,10 @@
 	hourly	</sy:updatePeriod>
 	<sy:updateFrequency>
 	1	</sy:updateFrequency>
-	<generator>https://wordpress.org/?v=6.0</generator>
+	
 	<item>
 		<title>
-		Autor: A WordPress Commenter		</title>
+		By: A WordPress Commenter		</title>
 		<link>./../index.html#comment-1</link>
 
 		<dc:creator><![CDATA[A WordPress Commenter]]></dc:creator>
