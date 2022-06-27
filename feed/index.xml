@@ -13,12 +13,12 @@
 	<link>./../index.html</link>
 	<description>Take back your time</description>
 	<lastBuildDate>Thu, 02 Jun 2022 13:52:23 +0000</lastBuildDate>
-	<language>pl-PL</language>
+	<language>en-US</language>
 	<sy:updatePeriod>
 	hourly	</sy:updatePeriod>
 	<sy:updateFrequency>
 	1	</sy:updateFrequency>
-	<generator>https://wordpress.org/?v=6.0</generator>
+	
 	<item>
 		<title>Hello world!</title>
 		<link>./../hello-world/index.html</link>
